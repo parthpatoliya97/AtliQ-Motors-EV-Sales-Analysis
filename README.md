@@ -267,6 +267,8 @@ Indicates shrinking EV adoption pace in these regions.
 
 ## Dashboard View :
 
+Live Dashboard Link : [Click Here](https://app.powerbi.com/view?r=eyJrIjoiOTg5NzM3MzgtZjU0YS00NDZiLWI5NjEtZjZkNjExYzIzMzhhIiwidCI6IjJhYmVkYTA4LTMyOGEtNGFlMy1iYTg1LThiNzIxZmE1Mzg3OSJ9)
+
 #### Data Model View :
 
 ![data model view](https://github.com/parthpatoliya97/AtliQ-Motors-EV-Sales-Analysis/blob/main/Images/Data%20Model%20View.png?raw=true)
