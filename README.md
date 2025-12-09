@@ -4,7 +4,7 @@
 
 -----------------------------------------------------------------
 
-🔍 Project Focus — What This Analysis Solves
+### 🔍 Project Focus — What This Analysis Solves
 
 - Study the current EV & Hybrid vehicle market in India to support AtliQ Motors’ expansion.
 
@@ -27,3 +27,96 @@
 - Highlight risks, challenges, and assumptions affecting market entry decisions.
 
 -------------------------------------------------------------
+
+### Key Terms to Know Before Dive Into the Dashboard :
+
+## 📌 CAGR (Compound Annual Growth Rate)
+
+### 1️⃣ What is CAGR?
+
+- CAGR (Compound Annual Growth Rate) measures the average yearly growth of a value (such as EV sales, revenue, or market size) over a period of time — assuming it grows at a constant rate.
+
+### 2️⃣ Why is it used?
+
+- CAGR is used to understand long-term growth trends, eliminating year-to-year volatility.
+
+#### It helps evaluate:
+
+- Market growth (EV adoption over years)
+
+- Company performance vs. industry
+
+- Future forecasting
+
+### 3️⃣ How does it give valuable insights?
+
+#### CAGR helps determine:
+
+- Whether EV vehicle adoption is accelerating or slowing
+
+- If the company is growing faster than the market
+
+- Long-term sustainability of EV demand
+
+- It gives a clear, stable indicator of overall growth over multiple years.
+
+### 4️⃣ Which is better: high or low CAGR?
+
+#### High CAGR → Good for EV market growth
+- Indicates strong demand, innovation, and rapid adoption.
+
+#### Low CAGR → Slow market expansion
+- Shows stagnation or low consumer adoption.
+
+   - 📌 Higher CAGR is better for EV industry growth.
+
+### 5️⃣ Formula :
+- CAGR = ((Ending Value / Beginning Value)^(1 / Number of Years) - 1) * 100
+
+-----------------------------------------
+
+## 📌 Penetration Rate
+
+### 1️⃣ What is Penetration Rate?
+
+- Penetration Rate measures the percentage of the total market that has adopted EV vehicles.
+
+### 2️⃣ Why is it used?
+
+- It helps understand how deeply EVs have entered the overall automobile market, by comparing EV users vs. total vehicle users.
+
+#### Used for:
+
+- Market sizing
+
+- Understanding adoption levels
+
+- Identifying early-stage vs mature EV markets
+
+### 3️⃣ How does it give valuable insights?
+
+#### Penetration rate helps identify:
+
+- Cities/regions with high EV adoption
+
+- Where marketing or infrastructure investment is needed
+
+- Growth opportunities in low-penetration areas
+
+- It is essential for deciding charging station expansion, city-level marketing, and EV subsidies strategy.
+
+### 4️⃣ Which is better: high or low penetration?
+
+#### High Penetration Rate → Good for EV industry maturity
+- Indicates strong adoption and greater acceptance.
+
+#### Low Penetration Rate → Growth opportunity
+- Shows market potential but slow adoption.
+
+   - ✔ For a company, high penetration = achieved success
+   - ✔ For growth potential, low penetration = more room to expand
+
+### 5️⃣ Formula :
+- Penetration Rate (%) = (Total EV Users / Total Vehicle Users) * 100
+
+-----------------------------------------------------------------
