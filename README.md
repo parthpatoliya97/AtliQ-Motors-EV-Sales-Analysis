@@ -272,3 +272,27 @@ Indicates shrinking EV adoption pace in these regions.
 ![data model view](https://github.com/parthpatoliya97/AtliQ-Motors-EV-Sales-Analysis/blob/main/Images/Data%20Model%20View.png?raw=true)
 
 -----------------------------
+
+Home Page View :
+
+![Home Page](https://github.com/parthpatoliya97/AtliQ-Motors-EV-Sales-Analysis/blob/main/Images/Home%20Page.png?raw=true)
+
+-------------------------------
+
+Maker Page View :
+
+![Maker Page](https://github.com/parthpatoliya97/AtliQ-Motors-EV-Sales-Analysis/blob/main/Images/Maker%20View.png?raw=true)
+
+-----------------------------
+
+State Page View :
+
+![State Page](https://github.com/parthpatoliya97/AtliQ-Motors-EV-Sales-Analysis/blob/main/Images/State%20View.png?raw=true)
+
+---------------------------------
+
+State vs State Page View :
+
+![State vs State](https://github.com/parthpatoliya97/AtliQ-Motors-EV-Sales-Analysis/blob/main/Images/State%20vs%20State%20View.png?raw=true)
+
+----------------------------
