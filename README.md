@@ -127,6 +127,143 @@
 
 -----------------------------------------------------------------
 
+## Key Insights Summary :
+
+### 🔷 Maker View – 2-Wheeler EV Market
+
+### Market Leadership Trends :
+
+   - 2022: Hero Electric (69K), Okinawa (48K), and Ampere (26K) lead; Jitendra (3.9K) ranks lowest.
+
+   - 2023: Ola Electric surges to 153K, becoming the new leader, followed by Okinawa and Hero Electric.
+
+   - 2024: Ola Electric dominates with 322K, followed by TVS (181K) and Ather (108K).
+
+   - Hero Electric, a leader in 2022, fails to remain in the top 5 from 2023 onward.
+
+### Revenue Highlights :
+
+   - 2022 Leaders: Hero Electric (₹5.9B), Okinawa (₹4.1B), Ampere (₹2.2B).
+
+   - 2023 Leaders: Ola Electric (₹13B), Okinawa (₹8.2B), Hero Electric (₹7.6B).
+
+   - 2024 Leaders: Ola Electric (₹27B), TVS (₹15B), Ather (₹9B).
+
+### Growth Momentum (CAGR) :
+
+   - Top 5 by CAGR: Ola Electric (373%), TVS (331%), Bajaj (285%), Ather (132%), Others (78%).
+
+   - Strong CAGR reflects aggressive market expansion, especially by Ola, TVS, and Bajaj.
+
+### Quarterly Observations :
+
+   - Q4 is the strongest quarter every year.
+
+
+
+### 🔷 Maker View – 4-Wheeler EV Market
+
+### Market Leadership Trends
+
+   - 2022–2024: Tata Motors consistently leads with substantial sales growth : 2022 (13K) → 2023 (28K) → 2024 (48K).
+
+   - Mahindra remains the second-largest seller across all years.
+
+   - MG Motors holds third position steadily.
+
+### Revenue Highlights
+
+   - 2022–2024: Tata Motors dominates revenue across all years (₹19B → ₹42B → ₹72B).
+
+   - Mahindra shows strong revenue growth from ₹6B (2022) to ₹35B (2024).
+
+### Growth Momentum (CAGR) – Interesting Pattern
+
+   - Top 5 CAGR makers: BMW India (1141%), Volvo Auto India (971%), BYD India (567%), Hyundai (255%), Mercedes-Benz (234%).
+
+   - Despite high growth percentages, their absolute sales remain small, showing niche/low-volume premium EV markets.
+
+### Quarterly Observations
+
+   - Tata Motors leads in almost all quarters except 2024 Q1, where Mahindra briefly overtakes with 11K sales.
+
+   - Mahindra’s strong Q1 is followed by a significant drop, reaching only 2K in Q4.
+
+
+### 🔷 Combined 2W + 4W Monthly Trends
+
+Peak Months:
+
+- 2022 & 2023: March
+
+- 2024: March & May
+
+- 4-Wheelers : Shows linear Sales Trend no fluctuation and big jump during 2022 - 2024, in March 2024 they reach the maximum limit of just 9k while at the same 2-wheelers are aggresively cover the market with 130k units sold
+
+
+### 🔷 State View – EV Market Performance
+
+#### Top States by Sales & Revenue
+
+   - Maharashtra & Karnataka dominate both 2W and 4W segments in sales and revenue contribution.
+
+   - These two states are consistently at the top across all categories.
+
+#### Top states by penetration rate
+
+- 2023 
+    - 2W : Goa(12.5%), Delhi(9.5%), Karataka(9.2%), Kerala(8.4%), Maharastra(8.2%)
+    - 4W : Delhi(3.7%), Goa(3.2%), Maharastra(2.6%), Kerala(2.4%), Karnataka(2.1%)
+
+- 2024
+    - 2W : Goa(18%), Kerala(13.5%), Karnataka(11.6%), Maharastra(10.1%), Delhi(9.4%)
+    - 4W : Kerala(5.8%), chandigarh(4.5%), Delhi(4.3%), karnataka(4.3%), Goa(4.3%)
+
+#### 2030 Sales Forecasting
+
+   - 4-Wheeler: Uttar Pradesh projected highest (437.96M), driven by highest CAGR (561%).
+
+   - 2-Wheeler: Maharashtra projected highest (15.26M) due to strong past performance.
+
+#### Revenue Growth (YoY Comparison)
+
+- 2022 → 2024:
+
+    - 2W: +269%
+
+    - 4W: +367%
+
+- 2023 → 2024:
+
+    - 2W: +28%
+
+    - 4W: +83%
+
+#### Top States by EV CAGR
+
+   - 2-Wheelers: Tripura (212%), Goa (160%), Chandigarh (154%), Chhattisgarh (148%), West Bengal (149%).
+
+   - 4-Wheelers: Uttar Pradesh (561%), Assam (447%), Punjab (383%), Haryana (374%), Odisha (227%).
+
+   - Overall (2W+4W): Meghalaya (476%), Nagaland (200%), Tripura (229%), Chandigarh (165%), Chhattisgarh (151%).
+
+#### Declining Penetration States
+
+   - 2022 → 2023: Andaman & Nicobar Islands
+
+   - 2023 → 2024: Gujarat, Haryana, Himachal Pradesh, Rajasthan, Jharkhand, Uttarakhand
+
+Indicates shrinking EV adoption pace in these regions.
+
+
+### 📌 Final Summary :
+
+- AtliQ Motors’ EV market shows rapid and consistent growth, with Ola Electric (2W) and Tata Motors (4W) emerging as clear leaders. High CAGR states such as Uttar Pradesh, Tripura, and Meghalaya highlight strong future demand potential, while Maharashtra and Karnataka remain backbone markets in terms of volume and revenue. Seasonal patterns show peak demand around March, with Q4 being the strongest quarter overall. These insights collectively highlight the evolving dynamics and future opportunities in India’s EV landscape.
+
+----------------------------------------------------------------------------
+
+## Dashboard View :
+
 ## Data Model View :
 
 ![data model view](https://github.com/parthpatoliya97/AtliQ-Motors-EV-Sales-Analysis/blob/main/Images/Data%20Model%20View.png?raw=true)
