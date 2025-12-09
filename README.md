@@ -117,6 +117,6 @@
    - ✔ For growth potential, low penetration = more room to expand
 
 ### 5️⃣ Formula :
-- Penetration Rate (%) = (Total EV Users / Total Vehicle Users) * 100
+- Penetration Rate (%) = (Total EV Sold / Total Vehicle Sold) * 100
 
 -----------------------------------------------------------------
