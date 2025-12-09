@@ -121,6 +121,12 @@
 
 -----------------------------------------------------------------
 
+- Analysis was conducted on three years (2022 - 2024) data
+
+- Fiscal Year period for the AtliQ Motors is from April - March
+
+-----------------------------------------------------------------
+
 ## Data Model View :
 
 ![data model view](https://github.com/parthpatoliya97/AtliQ-Motors-EV-Sales-Analysis/blob/main/Images/Data%20Model%20View.png?raw=true)
