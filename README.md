@@ -133,7 +133,7 @@
 
 ### Market Leadership Trends :
 
-   - 2022: Hero Electric (69K), Okinawa (48K), and Ampere (26K) lead; Jitendra (3.9K) ranks lowest.
+   - 2022: Hero Electric (69K), Okinawa (48K), Ampere (26K) leads / Jitendra (3.9K) ranks lowest.
 
    - 2023: Ola Electric surges to 153K, becoming the new leader, followed by Okinawa and Hero Electric.
 
@@ -159,7 +159,7 @@
 
    - Q4 is the strongest quarter every year.
 
-
+--------------------------------------
 
 ### 🔷 Maker View – 4-Wheeler EV Market
 
@@ -189,6 +189,7 @@
 
    - Mahindra’s strong Q1 is followed by a significant drop, reaching only 2K in Q4.
 
+--------------------------------------------
 
 ### 🔷 Combined 2W + 4W Monthly Trends
 
@@ -200,6 +201,7 @@ Peak Months:
 
 - 4-Wheelers : Shows linear Sales Trend no fluctuation and big jump during 2022 - 2024, in March 2024 they reach the maximum limit of just 9k while at the same 2-wheelers are aggresively cover the market with 130k units sold
 
+---------------------------------------------
 
 ### 🔷 State View – EV Market Performance
 
@@ -255,6 +257,7 @@ Peak Months:
 
 Indicates shrinking EV adoption pace in these regions.
 
+---------------------------------------------------
 
 ### 📌 Final Summary :
 
