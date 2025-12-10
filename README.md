@@ -259,9 +259,107 @@ Indicates shrinking EV adoption pace in these regions.
 
 ---------------------------------------------------
 
+## 📌 Quick Summary Insights (2022–2024 EV Market Performance)
+
+### 1️⃣ Overall Market Size
+
+- 2-Wheelers dominate the EV market with 47 million total sales, significantly higher than 4-Wheelers (10 million).
+
+------------------------
+
+### 2️⃣ Growth Momentum (CAGR)
+
+#### EV CAGR by State
+
+- 4-Wheelers have a higher EV CAGR (116.28%) compared to 2-Wheelers (92.17%),
+
+- indicating faster expansion in the premium/4W market across states.
+
+- Although 4W volumes are lower, their growth trajectory is stronger, revealing rising consumer interest in long-range and high-performance EVs.
+
+#### CAGR by Total Vehicles Sold
+
+- CAGR is nearly the same for both:
+
+    - 2W: 13.50%
+
+    - 4W: 13.83%
+
+    - This shows stable and consistent growth across the entire EV ecosystem without extreme fluctuations.
+
+---------------------
+
+### 3️⃣ EV Penetration Rate
+
+- 2-Wheelers: 4.08% penetration
+
+- 4-Wheelers: 1.48% penetration
+
+- ➡️ 2W EVs penetrate the market 3× more than 4W EVs.
+  
+- This aligns with India’s price-sensitive consumer base, where 2W EVs are adopted faster due to lower cost and daily commuting needs.
+
+--------------------------
+
+### 4️⃣ Revenue Contribution
+
+- 4-Wheelers generate more revenue (₹229.41Bn) than 2W (₹162.62Bn) despite lower unit sales.
+
+- Highlights: Higher price per unit / Higher margins / Stronger profitability per customer in the 4W segment
+
+- 👉 For automakers, 4-wheelers = high-value segment, while 2-wheelers = high-volume segment.
+
+--------------------------
+
+### 5️⃣ Market Share
+
+- 2-Wheelers hold an overwhelming 92.6% market share of overall EV sales.
+
+- 4-Wheelers account for only 7.4%.
+
+- This reflects India’s current EV maturity:
+
+    - Mass adoption → 2W segment
+
+    - Emerging adoption → 4W segment but with huge future potential
+
+----------------
+
+### 6️⃣ EV Sales by State
+
+- 2-Wheelers: 1,913.2K (1.9M)
+
+- 4-Wheelers: 152.9K
+
+- difference shows:
+
+    - EV adoption is deeply driven by 2W-friendly states (Maharashtra, Karnataka, Tamil Nadu, Gujarat).
+
+    - 4W EV adoption is still limited to high-income or urban states but is slowly expanding.
+
+-------------------
+
 ### 📌 Final Summary :
 
-- AtliQ Motors’ EV market shows rapid and consistent growth, with Ola Electric (2W) and Tata Motors (4W) emerging as clear leaders. High CAGR states such as Uttar Pradesh, Tripura, and Meghalaya highlight strong future demand potential, while Maharashtra and Karnataka remain backbone markets in terms of volume and revenue. Seasonal patterns show peak demand around March, with Q4 being the strongest quarter overall. These insights collectively highlight the evolving dynamics and future opportunities in India’s EV landscape.
+- India’s EV market is experiencing rapid and consistent growth, led by strong adoption in both 2W and 4W categories.
+
+- 2-Wheelers dominate in volume, driven by affordability and daily-use mobility.
+
+- 4-Wheelers show faster CAGR with significantly higher revenue per vehicle, indicating a high-value, early-stage premium growth opportunity.
+
+- Market leaders:
+
+    - Ola Electric → 2W category
+
+    - Tata Motors → 4W category
+
+- High-growth states such as Uttar Pradesh, Tripura, and Meghalaya demonstrate strong demand acceleration and future potential.
+
+- Core markets like Maharashtra and Karnataka continue to be the revenue and volume backbone for India’s EV sector.
+
+- Seasonality trends indicate demand peaks in March, with Q4 being the strongest quarter for EV sales.
+
+- India’s EV ecosystem is evolving, offering AtliQ Motors strategic opportunities across both high-volume (2W) and high-value (4W) segments.
 
 ----------------------------------------------------------------------------
 
