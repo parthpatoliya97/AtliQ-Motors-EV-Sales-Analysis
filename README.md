@@ -365,7 +365,7 @@ Indicates shrinking EV adoption pace in these regions.
 
 ## Dashboard View :
 
-Live Dashboard Link : [Click Here](https://app.powerbi.com/view?r=eyJrIjoiOTg5NzM3MzgtZjU0YS00NDZiLWI5NjEtZjZkNjExYzIzMzhhIiwidCI6IjJhYmVkYTA4LTMyOGEtNGFlMy1iYTg1LThiNzIxZmE1Mzg3OSJ9)
+Live Dashboard Link : [Click Here](https://app.powerbi.com/view?r=eyJrIjoiY2Y3MzY0MzAtZDgxMi00YTA4LWExZTQtOGZjZGNiNTRhNzA4IiwidCI6IjJhYmVkYTA4LTMyOGEtNGFlMy1iYTg1LThiNzIxZmE1Mzg3OSJ9)
 
 #### Data Model View :
 
